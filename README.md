@@ -11,7 +11,7 @@ and
 YOU MUST keep YOUR CHANGES OPEN
 see master rentahal licenses in source.
 
-no part of rentahal(tm) mtor(tm) may be copyrighted , traedmarked or patented.
+no part of rentahal(tm) mtor(tm) may be copyrighted , trademarked or patented.
 
 the code here and easy installer are:
 
